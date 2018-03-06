@@ -1,6 +1,10 @@
 a=2
 if a%2==0
- puts "even"
+ puts "enhanced even"
 else
+<<<<<<< HEAD
 puts "odd"
+=======
+puts "enhanced odd"
+>>>>>>> enhance
 end
