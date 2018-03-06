@@ -1,6 +1,6 @@
 a=2
 if a%2==0
- puts "even"
+ puts "enhanced even"
 else
-puts "odd"
-end:
+puts "enhanced odd"
+end
